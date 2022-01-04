@@ -5,5 +5,8 @@ h1{
     font-size: 50px;
 }
 .name-color{
-    color: aqua;
+    color: navy;
+}
+section{
+    display: flex;
 }
